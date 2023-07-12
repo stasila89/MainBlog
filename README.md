@@ -32,6 +32,6 @@
 
 ![Блок-схема](https://github.com/stasila89/MainBlog/blob/main/Блок-схема%20к%20контрольной%20по%20основному%20блоку.drawio-6.png)
 
-### **Выведем нашу программу:**
+### **Тепереь напишем программу:**
 
-![Код программы](https://github.com/stasila89/MainBlog/blob/main/Programm.cs)
+[Код программы](https://github.com/stasila89/MainBlog/blob/main/Programm.cs)

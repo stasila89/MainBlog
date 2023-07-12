@@ -32,4 +32,6 @@
 
 ![Блок-схема](https://github.com/stasila89/MainBlog/blob/main/Блок-схема%20к%20контрольной%20по%20основному%20блоку.drawio-6.png)
 
-### **Напишем программу, решающую поставленную задачу:**
+### **Выведем нашу программу:**
+
+![Код программы](https://github.com/stasila89/MainBlog/blob/main/Programm.cs)
